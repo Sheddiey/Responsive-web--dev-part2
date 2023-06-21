@@ -9,7 +9,7 @@ body {
 
   
   p {
-    background-color: yellow;
+    background-color: rgb(230, 230, 220);
   }
 
 
@@ -19,7 +19,7 @@ body {
 }
 .div-1{
     font-size: larger;
-    color: azure;
+    color: rgb(0, 0, 0);
 }
 
 /* all selectors */
