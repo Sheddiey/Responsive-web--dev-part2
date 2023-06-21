@@ -21,3 +21,9 @@ body {
     font-size: larger;
     color: azure;
 }
+
+/* all selectors */
+*{
+    padding: 20px;
+    margin: 0;
+}
