@@ -9,4 +9,53 @@ body {
   p {
     background-color: yellow;
   }
+
+
+  <!-- .sample-text {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+      "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 30pt;
+    letter-spacing: 2pt;
+    color: #040404;
+    width: 400px;
+    border-left: dotted 3px blue;
+    border-right: solid 3px green;
+    border-top: double 3px red;
+    border-bottom: ridge 8px black;
+    padding: 10px;
+    margin: 100px;
+  }
+  a {
+    color: yellowgreen;
+    font-weight: bold;
+    font-size: 48px;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .sample {
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+    background-color: #cccccc;
+    padding: 5px;
+  }
+  .clear{
+    clear: both;
+  }
+  .positionMe{
+    position: fixed;
+    bottom: 0;
+    left: 50%;
+    margin-left: -300px;
+  }
+  img{
+    height: 400px;
+    width: 600px;
+  }
+
   
